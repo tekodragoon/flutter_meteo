@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/tekohome/flutter_meteo/BuildConfig.java
+ com.tekohome.flutter_meteo.BuildConfig
+com/tekohome/flutter_meteo/MainActivity.java
+ com.tekohome.flutter_meteo.MainActivity

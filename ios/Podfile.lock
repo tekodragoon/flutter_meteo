@@ -1,0 +1,34 @@
+PODS:
+  - Flutter (1.0.0)
+  - geocoder (0.0.1):
+    - Flutter
+  - location (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - geocoder (from `.symlinks/plugins/geocoder/ios`)
+  - location (from `.symlinks/plugins/location/ios`)
+  - shared_preferences (from `.symlinks/plugins/shared_preferences/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  geocoder:
+    :path: ".symlinks/plugins/geocoder/ios"
+  location:
+    :path: ".symlinks/plugins/location/ios"
+  shared_preferences:
+    :path: ".symlinks/plugins/shared_preferences/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  geocoder: a553b2cc991813a2bcd7ed4eaee3161165090a3c
+  location: 50b603bc45edf4fba7d4fb940ac491736e64ec45
+  shared_preferences: 5d0fc5691f4e7293ddfc1b599ca398f8af42f5e7
+
+PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
+
+COCOAPODS: 1.10.0
